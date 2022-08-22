@@ -18,12 +18,8 @@ document.writeln(`2.Number M=<b>${numberM}; </b> <br>`);
         } else if (!value){
             sum += i ;
         }
-        
     }
-    // document.writeln(numberM);
-    
-
-
+// document.writeln(numberM);
 // document.writeln(`3.<b>${isValid}; </b> <br>`);
 // `even`-усі парні значення .
 // `odd`-усі не парні значення
