@@ -15,7 +15,7 @@ document.writeln(`2.Number M=<b>${numberM}; </b> <br>`);
     for (let i = numberN; i <= numberM; i++) {
         if(i % 2 !== 0){
             sum += i;
-        } else if (!value){
+        } else if (!value) {
             sum += i ;
         }
     }
