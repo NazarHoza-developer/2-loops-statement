@@ -21,9 +21,5 @@ document.writeln(`2.Number M=<b>${numberM}; </b> <br>`);
     }
     console.log(sum);
     document.writeln(`4.sum=<b>${sum}; </b> <br>`);
-// document.writeln(numberM);
-// document.writeln(`3.<b>${isValid}; </b> <br>`);
-// `even`-усі парні значення .
-// `odd`-усі не парні значення
 
 
